@@ -22,5 +22,14 @@ Here we provide two case studies demonstrating the effect of data curation on th
 |     Curated data set      |     0.63    |     0.54           |     0.66    |     0.72           |     0.61    |
 
 ## More information
-For more information, please refer to our paper:
-Alves, V. M.; Auerbach, S. S.; Kleinstreuer, N.; Rooney, J. P.; Muratov, E. N.; Rusyn, I.; Tropsha, A.; Schmitt, C. Curated Data in – Trustworthy in Silico Models out: The Impact of Data Quality on the Reliability of Artificial Intelligence Models as Alternatives to Animal Testing. ATLA Altern. to Lab. Anim. **2021**, *Submitted.*
+For more information, please refer to our paper:<br>
+Alves, V. M.; Auerbach, S. S.; Kleinstreuer, N.; Rooney, J. P.; Muratov, E. N.; Rusyn, I.; Tropsha, A.; Schmitt, C. **Curated Data in – Trustworthy in Silico Models out: The Impact of Data Quality on the Reliability of Artificial Intelligence Models as Alternatives to Animal Testing.** *ATLA Altern. to Lab. Anim.* **2021**, *Submitted.*
+
+## Acknowledgements
+This work was carried out by researchers from [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/) in collaboration with the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
+<p align="middle">
+  <img src="./docs/niehs.png" alt="NIEHS" width="85px">
+  <img src="./docs/ESOP.png" alt="ESOP" width="500px">
+  <img src="./docs/UNC.jpg" alt="UNC" width="280px">
+  <br>
+</p>
